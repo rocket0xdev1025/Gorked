@@ -31452,7 +31452,7 @@ function LL(t, e = {}) {
     a
   );
 }
-const sr = "0xcomingsoon",
+const sr = "0xb7d4b0fad2c8928facea8b66f1877ef26f94bc03",
   Bf = "https://x.com/TesticleWorld_x",
   SE = "https://t.me/TesticleWorld",
   cl = "/logo.png",
