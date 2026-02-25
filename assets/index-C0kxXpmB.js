@@ -32168,28 +32168,28 @@ const sr = "0xb7d4b0fad2c8928facea8b66f1877ef26f94bc03",
                 children: [
                   I.jsxs("p", {
                     children: [
-                      "This coin was launched by the ",
+                      "Introducing Grok 4.1, ",
                       I.jsx("span", {
                         className: "text-white font-black",
-                        children: "$snowball dev",
+                        children: "a frontier model ",
                       }),
                       ", who used ",
                       I.jsx("span", {
                         className: "text-white font-black",
-                        children: "Gorked",
+                        children: "that sets a new standard",
                       }),
-                      " to battle-test the ",
+                      " for conversational ",
                       I.jsx("span", {
                         className:
                           "underline decoration-yellow-400 decoration-4",
-                        children: "snowball tech",
+                        children: "intelligence",
                       }),
                       ".",
                     ],
                   }),
                   I.jsxs("p", {
                     children: [
-                      "It started as a technical demonstration, but it quickly grew into something much bigger. Now, the project is under the visionary leadership.",
+                      "emotional understanding, and real-world helpfulness.",
                     ],
                   }),
                   I.jsx(Se.p, {
