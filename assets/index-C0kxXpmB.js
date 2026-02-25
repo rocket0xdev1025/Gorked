@@ -32353,11 +32353,6 @@ const sr = "0xb7d4b0fad2c8928facea8b66f1877ef26f94bc03",
                         "text-4xl text-white leading-none uppercase",
                       children: "Gorked",
                     }),
-                    I.jsx("p", {
-                      className:
-                        "text-lg font-bold opacity-60 uppercase tracking-tighter",
-                      children: "by $snowball dev",
-                    }),
                   ],
                 }),
               ],
