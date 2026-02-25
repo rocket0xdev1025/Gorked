@@ -32233,7 +32233,7 @@ const sr = "0xb7d4b0fad2c8928facea8b66f1877ef26f94bc03",
         title: "SWITCH ETH FOR $GORKED",
         desc: "Paste the CA into uniswap.org and confirm the swap. We have zero taxes so you don’t need to worry about buying with a specific slippage, although you may need to increase during times of volatility.",
         icon: I.jsx(vC, { size: 32 }),
-      },
+      }, 
     ];
     return I.jsx(fl, {
       id: "how-to-buy",
