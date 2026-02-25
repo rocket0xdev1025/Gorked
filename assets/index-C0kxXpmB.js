@@ -31453,8 +31453,8 @@ function LL(t, e = {}) {
   );
 }
 const sr = "0xb7d4b0fad2c8928facea8b66f1877ef26f94bc03",
-  Bf = "https://x.com/TesticleWorld_x",
-  SE = "https://t.me/TesticleWorld",
+  Bf = "https://x.com/Gorked_eth",
+  SE = "https://t.me/Gorked_eth",
   cl = "/logo.png",
   il = `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=${sr}`,
   O0 = "#fbbf24",
